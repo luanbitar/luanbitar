@@ -1,5 +1,8 @@
 ### Hi there 👋
-<img src="https://hitcounter.pythonanywhere.com/count/tag.svg" alt="Hits">
+
+<div style="text-align: center">
+  <img src="https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fgithub.com%2Fluanbitar" alt="Hits">
+</div>
 <!--
 **luanbitar/luanbitar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
