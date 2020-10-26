@@ -1,8 +1,19 @@
-### Hi there 👋
+<p align="center">
+  <strong>home @ <a href="https://lbitar.com">lbitar.com</a></strong>
+</p>
 
-<div style="text-align: center">
-  <img src="https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fgithub.com%2Fluanbitar" alt="Hits">
-</div>
+<p align="center">
+  <strong>streaming at @ <a href="https://twitch.tv/5EMPTY">twitch.tv/5EMPTY</a></strong>
+</p>
+
+<p align="center">
+  <img src="https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fgithub.com%2Fluanbitar" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=luanbitar" />
+</p>
+
 <!--
 **luanbitar/luanbitar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
