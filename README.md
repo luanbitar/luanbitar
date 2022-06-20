@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=luanbitar&count_private=true&theme=onedark&show_icons=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=luanbitar&theme=dark&show_icons=true&count_private=true&include_all_commits=true&disable_animations=true&hide_title=true&hide=contribs" />
 </p>
 
 <!--
