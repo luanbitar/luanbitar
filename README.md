@@ -7,10 +7,6 @@
 </p>
 
 <p align="center">
-  <img src="https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fgithub.com%2Fluanbitar" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-status-bitar.vercel.app/api?username=luanbitar&theme=dark&show_icons=true&count_private=true&include_all_commits=true&disable_animations=true&hide_title=true&hide=contribs" />
 </p>
 
